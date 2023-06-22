@@ -1,0 +1,31 @@
+.bottone1{
+
+;
+}
+.titolo{
+  position: absolute;
+  top: 90px;
+  left: 650px;
+  font-kerning: normal;
+}
+.card1{
+  position: absolute;
+  top: 200px;
+  left: 10px
+}
+
+.card2{
+  position: absolute;
+  top: 200px;
+  left: 385px
+}
+.card3{
+  position: absolute;
+  top: 200px;
+  left: 760px
+}
+.card4{
+  position: absolute;
+  top: 200px;
+  left: 1150px
+}

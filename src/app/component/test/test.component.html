@@ -1,0 +1,12 @@
+<p *ngIf="nostroIp">CIAO il TUO IP è {{nostroIp.ip}}</p>
+<button (click)="showIp()"></button>
+
+<div *ngIf="nostroIp">
+  <input type="text" [(ngModel)]="nostroIp.ip">
+ <button (click)="view()"> ciao giggii</button>
+</div>
+
+<div *ngIf="nostroIp">
+  {{nostroIp.ip}}
+
+</div>
